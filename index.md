@@ -1,25 +1,6 @@
 ## Welcome to GitHub Pages
 
-<figure>
-    <figcaption>Source 音声:</figcaption>
-    <audio
-        controls
-        src="./audio/eval2_0017_ori.wav">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-<figure>
-    <figcaption>Source 音声:</figcaption>
-    <audio
-        controls
-        src="./audio/eval2_0017_ori.wav">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+![Audio](audio/eval2_0017_ori.wav)
 
 You can use the [editor on GitHub](https://github.com/Secondtonumb/kevingenghaopeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
