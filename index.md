@@ -1,43 +1,26 @@
-## Welcome to GitHub Pages
+TOKAISP 音声デモ
+
+
+https://user-images.githubusercontent.com/13309824/132928402-98f546ea-c6a8-42fe-9b52-5a04c417ffe7.mp4
 
 
 
-https://user-images.githubusercontent.com/13309824/132928176-fe789a28-ae51-449e-89ac-3e668e70be01.mp4
+https://user-images.githubusercontent.com/13309824/132928405-38849ac1-2054-47e8-bb76-d70076baf899.mp4
 
-<audio src="audio/eval2_0017_ori.wav" controls></audio>
 
-You can use the [editor on GitHub](https://github.com/Secondtonumb/kevingenghaopeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://user-images.githubusercontent.com/13309824/132928415-27a4fbf4-a9d5-4bbb-ad64-573670dd2bf4.mp4
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+https://user-images.githubusercontent.com/13309824/132928419-cd29edac-0b02-487f-b8c1-21ccc7b5ff2a.mp4
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+https://user-images.githubusercontent.com/13309824/132928421-e4c2ee26-62ec-4218-a375-8a4cd420bd7a.mp4
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://user-images.githubusercontent.com/13309824/132928423-38a6c519-e347-419b-8aec-117f66c9b534.mp4
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Secondtonumb/kevingenghaopeng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
